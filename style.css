@@ -1,0 +1,118 @@
+@font-face{
+    font-family:sher;
+    src:url(./Manrope-VariableFont_wght.woff2)
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:sher;
+    
+    border-radius: 10px;
+}
+html,body{
+    height:100%;
+    width:100%;
+    background-color: white;
+}
+
+#first{
+    background-color:skyblue;
+    width:100%;
+    height:300px;
+    color:crimson;
+    text-align:center;
+    font-size:30px;
+    font-weight:100;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:300px
+}
+
+#second{
+    color:seagreen;
+    background-color:#FFE5E7;
+    width:100%;
+    height:300px;
+    font-family: sher;
+    font-size:20px;
+    text-align:center;
+    padding-left:300px
+}
+#third{
+    color:#461A38;
+    background-color:#C8AD92;
+    width:100%;
+    height:300px;
+    font-family: sher;
+    font-size:20px;
+    text-align:center;
+    padding-left:300px
+}
+#third h4{
+    height:40px;
+    width:700px;
+    background-color:rgb(122, 121, 122);
+    margin-left:450px;
+    background-color: burlywood;
+
+}
+
+#forth{
+    color:#D6E4BD;
+    background-color:#B59080;
+    width:100%;
+    height:400px;
+    font-family: sher;
+    font-size:20px;
+    text-align:center;
+    padding-left:300px
+}
+#forth h4{
+    height:50px;
+    width:600px;
+    background-color:#F3878F;
+    margin-left:500px;
+    color:#461A38;
+    text-align:center;
+    font-size:30px;
+    text-transform: uppercase;
+}
+
+#fifth{
+    color:black;
+    background-color:bisque;
+    width:100%;
+    height:400px;
+    font-family: sher;
+    font-size:20px;
+    text-align:center;
+    padding-left:300px
+}
+
+#fifth h4{
+    height:50px;
+    width:600px;
+    background-color:#461A38;
+    color:honeydew;
+    margin-left:500px;
+    border-radius: 10px;
+}
+
+#sixth{
+     color:white;
+    background-color:#6F7478;
+    width:100%;
+    height:400px;
+    font-family: sher;
+    font-size:20px;
+    text-align:center;
+    padding-left:300px
+}
+#sixth h4{
+    color:black;    
+    background-color:#DFEDFA;
+    height:70px;
+    width:700px;
+    margin-left:450px;
+    padding:10px
+}
