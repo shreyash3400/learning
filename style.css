@@ -25,7 +25,7 @@ html,body{
     font-size:30px;
     font-weight:100;
     font-family: Arial, Helvetica, sans-serif;
-    padding-left:300px
+    padding-left:200px
 }
 
 #second{
@@ -36,7 +36,7 @@ html,body{
     font-family: sher;
     font-size:20px;
     text-align:center;
-    padding-left:300px
+    padding-left:200px
 }
 #third{
     color:#461A38;
@@ -45,14 +45,14 @@ html,body{
     height:300px;
     font-family: sher;
     font-size:20px;
+    padding-left:200px;
     text-align:center;
-    padding-left:300px
 }
 #third h4{
     height:40px;
     width:700px;
     background-color:rgb(122, 121, 122);
-    margin-left:450px;
+    margin-left:300px;
     background-color: burlywood;
 
 }
@@ -64,16 +64,17 @@ html,body{
     height:400px;
     font-family: sher;
     font-size:20px;
+    padding-left:200px;
     text-align:center;
-    padding-left:300px
+
+
 }
 #forth h4{
     height:50px;
     width:600px;
     background-color:#F3878F;
-    margin-left:500px;
+    margin-left:350px;
     color:#461A38;
-    text-align:center;
     font-size:30px;
     text-transform: uppercase;
 }
@@ -86,7 +87,7 @@ html,body{
     font-family: sher;
     font-size:20px;
     text-align:center;
-    padding-left:300px
+    padding-left:200px
 }
 
 #fifth h4{
@@ -94,7 +95,7 @@ html,body{
     width:600px;
     background-color:#461A38;
     color:honeydew;
-    margin-left:500px;
+    margin-left:350px;
     border-radius: 10px;
 }
 
@@ -106,13 +107,24 @@ html,body{
     font-family: sher;
     font-size:20px;
     text-align:center;
-    padding-left:300px
+    padding-left:200px
 }
 #sixth h4{
     color:black;    
     background-color:#DFEDFA;
     height:70px;
     width:700px;
-    margin-left:450px;
-    padding:10px
+    margin-left:300px;
+}
+
+#last{
+    color:white;
+    background-color:rgb(9, 14, 29);
+    height:70px;
+    width: 100%;
+}
+#last h3{
+    padding-left:750px;
+    padding-top:20px;
+    font-family:sher;
 }
